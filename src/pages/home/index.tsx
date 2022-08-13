@@ -21,7 +21,7 @@ const Home: React.FC = () => {
           />
         </a>
       </div>
-      <h1 className="my-20 font-semibold text-6xl">Vite + React</h1>
+      <h1 className="my-10 font-semibold text-6xl">Vite + React</h1>
       <h3 className="font-semibold">count is {count}</h3>
       <div>
         <Button
